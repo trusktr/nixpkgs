@@ -1,4 +1,4 @@
-{};
+{}:
 
 {
   itWorks = true;
