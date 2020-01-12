@@ -2,4 +2,4 @@
 
 {
   itWorks = true;
-};
+}
